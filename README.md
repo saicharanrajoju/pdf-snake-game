@@ -49,11 +49,12 @@ Other PDF viewers (like Firefox's PDF.js, native OS viewers, mobile viewers) imp
 * Dynamic colors (`fillColor`), text (`value`), and borders (`/BS`) proved unreliable across viewers.
 * Solution: Used the `.hidden` property for visuals, added a static background grid, and made the food blink.
 
-## 💡 Next Steps / Ideas?
-
-This was a fun exploration into PDF limits! Potential future ideas:
+😊This was a fun exploration into PDF limits! Potential future ideas:
 * Score display (using a Text Field).
 * Variable speed.
 * Other `.hidden`-based games?
 
+## 💡 Got any Ideas?
 Feel free to fork this project, experiment, or open an issue if you have ideas or find bugs! 🙏
+
+
