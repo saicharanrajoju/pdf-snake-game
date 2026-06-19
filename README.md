@@ -1,4 +1,4 @@
-# 🐍 PDF Snake Game ✨
+# 🐍 PDF Snake Game 
 
 Ever thought of playing a game *inside* a PDF? Tired of reading and hustling through documents? Take a break and play Snake right here! 📄➡️🎮
 
