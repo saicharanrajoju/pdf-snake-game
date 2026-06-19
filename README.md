@@ -6,7 +6,7 @@ This project is an experiment exploring the possibilities (and limitations!) of 
 
 ## ▶️ How to Play (Important!)
 
-❗ **IMPORTANT:** This interactive PDF currently **only works correctly in Google Chrome on a Desktop/Laptop**. It **will likely NOT work** on mobile devices, or in other browsers/viewers like Firefox, Safari, Edge (non-Chrome mode), or Adobe Reader due to crucial differences in PDF JavaScript support.
+❗ **IMPORTANT:** This is a interactive PDF currently **only works correctly in Google Chrome on a Desktop/Laptop**. It **will likely NOT work** on mobile devices, or in other browsers/viewers like Firefox, Safari, Edge (non-Chrome mode), or Adobe Reader due to crucial differences in PDF JavaScript support.
 
 1.  **Download:** Get the `snake_pdf_final.pdf` file from this repository.
 2.  **Open with CHROME:** Use **Google Chrome** on a **Desktop computer** to open the `snake_pdf_final.pdf` file. (Other browsers/viewers/mobile will not work).
